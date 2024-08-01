@@ -1,0 +1,7 @@
+protobuf==3.17.3
+pycryptodome==3.9.9
+requests==2.27.1
+websocket-client==0.59.0
+defusedxml==0.7.1
+enum34==1.1.10
+futures==3.4.0
