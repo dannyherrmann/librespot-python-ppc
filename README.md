@@ -11,7 +11,9 @@ ap_response_message_length = self.connection.read_int()
 
 You first need to install [Python 2.7.15](https://www.python.org/downloads/release/python-2715/)
 
-Clone this repo into your workspace/local computer:
+Clone this repo into your workspace/local computer.
+
+cd into root directory:
 
 ```bash
 cd librespot-python-ppc
